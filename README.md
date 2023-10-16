@@ -14,5 +14,4 @@ My personal exploration into using reinforcement learning for algorithm developm
 - Train a reinforcement learning model to create a form of balanced binary tree
 
 ### Step 4: BVH Tree Construction
-- Using the results of the previous step, train a model to optimize the construction of a common data structure in ray tracing, the [BVH](https://en.wikipedia.org/wiki/Bounding_volume_hierarchy) in an attempt to create high quality trees relatively quickly.
-
+- Using the results of the previous step, train a model to optimize the construction of a common data structure in ray tracing, the [BVH](https://en.wikipedia.org/wiki/Bounding_volume_hierarchy) in an attempt to create high quality trees relatively quickly
